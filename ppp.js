@@ -1,1 +1,3 @@
-alert('sdf')
+(function(){
+  alert('sdf')
+}).call(this);
